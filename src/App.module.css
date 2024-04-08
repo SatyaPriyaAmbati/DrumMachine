@@ -1,0 +1,27 @@
+.box
+{
+  border:1px solid lightskyblue;
+  width:200px;
+  border-radius:15px;
+  height: 400px;;
+  background-color: azure;
+}
+.display{
+  margin:10px;
+  width:155px;
+  font-size:15px;
+  color: black;
+  background-color: dimgray;
+}
+.buttonContainer
+{
+   display:flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+.buttons
+{
+    width:45px;
+    height: 45px;
+    margin: 3px;
+}
